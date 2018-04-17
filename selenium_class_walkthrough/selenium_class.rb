@@ -79,4 +79,4 @@ form.input_profession_field
 
 form.input_tool_field
 
-sleep 3
+sleep 7
